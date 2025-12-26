@@ -10,3 +10,6 @@
 [submodule "LunyScript.Unity"]
 	path = LunyScript.Unity
 	url = https://github.com/CodeSmile-0000011110110111/LunyScript.Unity
+[submodule "LunyLua"]
+	path = LunyLua
+	url = https://github.com/CodeSmile-0000011110110111/LunyLua
